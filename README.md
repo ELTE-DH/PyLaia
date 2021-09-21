@@ -1,3 +1,7 @@
+Upgrading PyLaia to support torch 1.8.1, so that we can use the A100s.
+
+--------------------------------------
+
 <div align="center">
 
 # PyLaia
